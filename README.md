@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VrajMalvi
-- 👀 I’m Student and has completed Beachlor's in Computer engineering.
-- 🌱 I’m currently learning Artificial Intelligence\Machine Learning(post grad) at Durham College.
+- 👀 I’m Student and has completed Beachlor's in Computer engineering and post-grad in Artificial Intelligence\Machine Learning.
+- 🌱 I’m currently learning Cloud Computing(post grad) at George College.
 - 💞️ I like to challenge my self and learn new things. 
 - 📫 reach me here on LinkedIn: https://www.linkedin.com/in/vraj-m-6bb69a87 
 
