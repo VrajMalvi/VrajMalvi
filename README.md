@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 - 📚 Postgraduate Degree in Artificial Intelligence.
 - ☁️ Postgraduate Degree in Cloud Computing.
 - 💼 Currently exploring opportunities in the tech industry.
+- 🌱 A team member who is enthusiastic about learning and growth.
 
 ## What I'm Passionate About
 
@@ -21,10 +22,6 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vraj-m-6bb69a87)
 - Email: [vrajmalvi08@gmail.com](mailto:vrajmalvi08@gmail.com)
-
-Feel free to explore my GitHub repositories, where I share my work and contributions to open-source AI projects. If you'd like to collaborate, discuss AI ideas, or have any questions, don't hesitate to reach out. Let's create innovative AI solutions together!
-
-Happy coding! 🚀
 
 <!---
 VrajMalvi/VrajMalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
