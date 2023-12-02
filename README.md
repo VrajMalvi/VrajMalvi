@@ -23,6 +23,13 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vraj-m-6bb69a87)
 - Email: [vrajmalvi08@gmail.com](mailto:vrajmalvi08@gmail.com)
 
+## Projects
+
+- [House Price Prediction](https://github.com/VrajMalvi/House-Price-Prediction.git)
+- [Restaurant Reviews Classification](https://github.com/VrajMalvi/Restaurant_Reviews-Classification-.git)
+- [Food Classification](https://github.com/VrajMalvi/Food_vision_101.git)
+- [Google Stock Price prediction](https://github.com/VrajMalvi/Google-Stock-price-prediction.git)
+- [Titanic Survival rate](https://github.com/VrajMalvi/Titanic-survival-rate.git)
 <!---
 VrajMalvi/VrajMalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
