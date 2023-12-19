@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 ## Get in Touch
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vraj-m-6bb69a87)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vrajmalvi/)
 - Email: [vrajmalvi08@gmail.com](mailto:vrajmalvi08@gmail.com)
 
 ## Projects
