@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 ## Projects
 
 - [House Price Prediction](https://github.com/VrajMalvi/House-Price-Prediction.git)
-- [Food Classification](https://github.com/VrajMalvi/Food_vision_101.git)
+- [Food Image Classification (Food 101 - dataset)](https://github.com/VrajMalvi/Food_vision_101.git)
 - [Google Stock Price prediction](https://github.com/VrajMalvi/Google-Stock-price-prediction.git)
 - [Titanic Survival rate](https://github.com/VrajMalvi/Titanic-survival-rate.git)
 - [Restaurant Reviews Classification](https://github.com/VrajMalvi/Restaurant_Reviews-Classification-.git)
