@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 - [Google Stock Price prediction](https://github.com/VrajMalvi/Google-Stock-price-prediction.git)
 - [Titanic Survival rate](https://github.com/VrajMalvi/Titanic-survival-rate.git)
 - [Restaurant Reviews Classification](https://github.com/VrajMalvi/Restaurant_Reviews-Classification-.git)
+
+## Power BI
+- [Adventure Works: Business Intelligence using Power BI](https://github.com/VrajMalvi/Adventure-Works.git)
 <!---
 VrajMalvi/VrajMalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
