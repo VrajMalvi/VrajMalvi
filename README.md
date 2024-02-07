@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 ## Power BI
 - [Adventure Works: Business Intelligence using Power BI](https://github.com/VrajMalvi/Adventure-Works.git)
+- [Walmart Sales Data using PowerBI](https://github.com/VrajMalvi/Walmart-sales-Data.git)
 <!---
 VrajMalvi/VrajMalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
