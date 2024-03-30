@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 ## Generative AI
 
--[Rax: Gemini based chatbot](https://github.com/VrajMalvi/Rax_AI.git)
+- [Rax: Gemini-based chatbot](https://github.com/VrajMalvi/Rax_AI.git)
 
 ## Projects AI | ML | DL
 
