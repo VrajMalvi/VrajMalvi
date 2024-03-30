@@ -23,6 +23,10 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vrajmalvi/)
 - Email: [vrajmalvi08@gmail.com](mailto:vrajmalvi08@gmail.com)
 
+## Generative AI
+
+-[Rax: Gemini based chatbot](https://github.com/VrajMalvi/Rax_AI.git)
+
 ## Projects AI | ML | DL
 
 - [House Price Prediction](https://github.com/VrajMalvi/House-Price-Prediction.git)
