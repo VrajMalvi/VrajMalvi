@@ -7,12 +7,10 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 - 🎓 Bachelor's Degree in Computer Science.
 - 📚 Postgraduate Degree in Artificial Intelligence Analysis, Design and Implementation.
 - ☁️ Postgraduate Degree in Cloud Computing.
-- 💼 Currently exploring opportunities in the tech industry.
-- 🌱 A team member who is enthusiastic about learning and growth.
 
 ## What I'm Passionate About
 
-- 🤖 **Artificial Intelligence**: My primary focus is on AI. I enjoy working on projects related to Data Analytics, Data science, machine learning, natural language processing, computer vision, and other AI disciplines. AI has the potential to revolutionize industries, and I'm excited to be a part of this journey.
+- 🤖 **Artificial Intelligence**: My primary focus is on AI. I enjoy working on projects related to Data Analytics, Data science, machine learning, natural language processing, computer vision, and Generative AI disciplines. AI has the potential to revolutionize industries, and I'm excited to be a part of this journey.
 
 - ☁️ **Cloud Computing**: While I have a background in cloud computing, my main passion lies in AI. I see cloud technologies as enablers for AI projects, and I'm well-versed in leveraging cloud resources to support AI applications.
 
@@ -20,7 +18,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 ## Get in Touch
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/vrajmalvi/)
+- LinkedIn: [www.linkedin.com/in/vrajmalvi](https://www.linkedin.com/in/vrajmalvi/)
 - Email: [vrajmalvi08@gmail.com](mailto:vrajmalvi08@gmail.com)
 
 ## Generative AI
