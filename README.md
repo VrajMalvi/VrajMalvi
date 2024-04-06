@@ -1,6 +1,6 @@
 # Hello, I'm Vraj Malvi 👋
 
-Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with a passion for artificial intelligence and cloud computing. Here, you'll find a collection of my projects and contributions related to these exciting fields.
+Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast passionate about artificial intelligence and cloud computing. You'll find a collection of my projects and contributions related to these exciting fields here.
 
 ## About Me
 
@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast with
 
 ## Generative AI
 
+- [Quizify_Gemini](https://github.com/VrajMalvi/Quizify_Gemini.git)
 - [Rax: Gemini-based chatbot](https://github.com/VrajMalvi/Rax_AI.git)
 
 ## Projects AI | ML | DL
