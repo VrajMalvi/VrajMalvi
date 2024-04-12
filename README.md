@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm Vraj Malvi, a computer science enthusiast pass
 
 ## Generative AI
 
+- [Advance AI Agent - Using Retrieval-Augmented Generation (RAG)](https://github.com/VrajMalvi/Advance_AI_Agent-using_RAG.git)
 - [Quizify_Gemini](https://github.com/VrajMalvi/Quizify_Gemini.git)
 - [Rax: Gemini-based chatbot](https://github.com/VrajMalvi/Rax_AI.git)
 
